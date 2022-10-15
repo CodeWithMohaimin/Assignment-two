@@ -96,3 +96,15 @@ form input{
 .yt_bio ol{
     margin: 5px 10px;
 }
+.question_section{
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+}
+.question_section ol{
+    margin: 20px;
+}
+.color_text{
+    color: rgb(252, 58, 236);
+    font-size: 20px;
+}
